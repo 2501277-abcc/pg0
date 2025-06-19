@@ -1,0 +1,51 @@
+#global-nav{
+    background-color:#b9b1fd;
+    padding: 10px;
+    width:100%;
+}
+#global-nav ul{
+    list-style:none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+#global-nav a{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+#global-nav a:hover{
+    background-color:#b69dfc;
+}
+body{
+    margin:0;
+}
+.syussinti{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.yuumei{
+    width: 45%;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.ge-mu{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.burosuta{
+    width: 60%;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+    
